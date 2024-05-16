@@ -1,0 +1,6 @@
+@ScienceFestivalMonolithicApplication_HostAddress = http://localhost:5084
+
+GET {{ScienceFestivalMonolithicApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
